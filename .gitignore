@@ -1,0 +1,22 @@
+# Local database credentials
+.env
+
+# Backend (Maven / IDE)
+backend/target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Frontend (Node / Vite)
+frontend/node_modules/
+frontend/dist/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
